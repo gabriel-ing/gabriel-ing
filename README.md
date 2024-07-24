@@ -8,7 +8,9 @@ I recently completed a PhD in Electron Microscopy, with additional background in
 
 
 ### Notable Projects
-api/pin?username=anuraghazra&repo=SimpliPyTEM
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-ing&repo=SimpliPyTEM)]
+
  - [SimpliPyTEM](https://github.com/gabriel-ing/SimpliPyTEM) - A Python library for processing and analysing electron microscopy images and movies. 
 
  - [EM_calculations](https://github.com/gabriel-ing/EM_calculations) and [CTF_sim](https://github.com/gabriel-ing/CTF_sim) - Python Scripts and notebooks for calculating and simulating various concepts within electron microscopy (including the Contrast Transfer Function). EM_calculations mainly contains methods I used to create figures for my thesis.
