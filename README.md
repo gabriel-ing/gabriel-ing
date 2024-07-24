@@ -11,9 +11,6 @@ I recently completed a PhD in Electron Microscopy 🔬, with additional backgrou
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-ing&repo=SimpliPyTEM)](https://github.com/gabriel-ing/SimpliPyTEM)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-ing&repo=ProjectSanMarino)](https://github.com/gabriel-ing/ProjectSanMarino)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-ing&repo=Yahtzee_Java)](https://github.com/gabriel-ing/Yahtzee_Java)
 
 ### Languages used:
 <p align="left">
