@@ -7,11 +7,9 @@ When I'm not at my computer, I am running, climbing 🧗, hiking 🥾, cycling �
 I recently completed a PhD in Electron Microscopy 🔬, with additional background in Biochemistry 🧬 and Structural Biology.
 
 
-### Notable Projects
+### Recent Projects
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-ing&repo=SimpliPyTEM)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-ing&repo=EM_calculations)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-ing&repo=ProjectSanMarino)
 
