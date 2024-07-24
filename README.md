@@ -2,7 +2,7 @@
 
 I'm a scientist and developer living in Edinburgh. 
 
-When I'm not at my computer, I am running, climbing 🧗, hiking 🥾, cycling 🚴‍♂️, knitting 🧶 or who knows where else! 
+When I'm not at my computer, I am running 🏃, climbing 🧗, hiking 🥾, cycling 🚴‍♂️, knitting 🧶 or who knows where else! 
 
 I recently completed a PhD in Electron Microscopy 🔬, with additional background in Biochemistry 🧬 and Structural Biology.
 
